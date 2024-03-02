@@ -32,8 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![wordleDemo](https://github.com/natmwong/AND102Wordle/assets/114623813/e115a0e2-c31e-46b1-9aa2-5f6fbf26d194)
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/natmwong/AND102Wordle/blob/main/wordleDemo.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif
 
